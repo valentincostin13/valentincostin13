@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>REALLY small JavaScript projects</b>
-  - [Age in days](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Age in days](https://github.com/valentincostin13/AgeInDays)
     
 <h2> 🤳 Connect with me:</h2>
 
