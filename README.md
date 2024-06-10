@@ -4,6 +4,7 @@
 
 - <b>REALLY small JavaScript projects</b>
   - [Age in days](https://github.com/valentincostin13/AgeInDays)
+  - [Dog generator](https://github.com/valentincostin13/DogGenerator)
     
 <h2> 🤳 Connect with me:</h2>
 
