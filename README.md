@@ -3,8 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>REALLY small JavaScript projects</b>
-  - [Age in days](https://github.com/valentincostin13/AgeInDays)
+  - [Rock, Paper, Scissors Game](https://github.com/valentincostin13/RockPapperScissors)
   - [Dog generator](https://github.com/valentincostin13/DogGenerator)
+  - [Age in days](https://github.com/valentincostin13/AgeInDays)
+
     
 <h2> 🤳 Connect with me:</h2>
 
