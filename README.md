@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>REALLY small JavaScript projects</b>
-  - [Rock, Paper, Scissors Game](https://github.com/valentincostin13/RockPapperScissors)
-  - [Dog generator](https://github.com/valentincostin13/DogGenerator)
-  - [Age in days](https://github.com/valentincostin13/AgeInDays)
+//- <b>REALLY small JavaScript projects</b>
+ // - [Rock, Paper, Scissors Game](https://github.com/valentincostin13/RockPapperScissors)
+ // - [Dog generator](https://github.com/valentincostin13/DogGenerator)
+ // - [Age in days](https://github.com/valentincostin13/AgeInDays)
+
+ - <b> To-Do List (HTML, CSS, JS) </b>
 
     
 <h2> 🤳 Connect with me:</h2>
