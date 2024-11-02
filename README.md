@@ -6,7 +6,7 @@
 - [Dog generator](https://github.com/valentincostin13/DogGenerator)
 - [Age in days](https://github.com/valentincostin13/AgeInDays) -->
 
- - <b> To-Do List (HTML, CSS, JS) </b>
+- [To-Do List (HTML, CSS, JS)](https://github.com/valentincostin13/To-Do-List)
 
     
 <h2> 🤳 Connect with me:</h2>
