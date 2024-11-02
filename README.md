@@ -1,11 +1,10 @@
 <h1>Hi, I'm Vali! <br/><a href="https://github.com/valentincostin13">Programmer</a>, <a href="">QA Automation Engineer for Web Applications</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
-//- <b>REALLY small JavaScript projects</b>
- // - [Rock, Paper, Scissors Game](https://github.com/valentincostin13/RockPapperScissors)
- // - [Dog generator](https://github.com/valentincostin13/DogGenerator)
- // - [Age in days](https://github.com/valentincostin13/AgeInDays)
+<!--<b>REALLY small JavaScript projects</b>
+- [Rock, Paper, Scissors Game](https://github.com/valentincostin13/RockPapperScissors)
+- [Dog generator](https://github.com/valentincostin13/DogGenerator)
+- [Age in days](https://github.com/valentincostin13/AgeInDays) -->
 
  - <b> To-Do List (HTML, CSS, JS) </b>
 
